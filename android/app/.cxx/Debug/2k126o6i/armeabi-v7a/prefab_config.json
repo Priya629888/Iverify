@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "prefabPath": "C:\\GradleHome\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.1.0\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\cli-2.1.0-all.jar",
+  "packages": [
+    "C:\\reactnative Project\\everfiypersonal\\mobile\\node_modules\\react-native-nitro-image\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "C:\\reactnative Project\\everfiypersonal\\mobile\\node_modules\\react-native-nitro-modules\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "C:\\reactnative Project\\everfiypersonal\\mobile\\node_modules\\react-native-vision-camera\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "C:\\GradleHome\\caches\\8.13\\transforms\\095232ca0ea8a8a779d7b095016d70c2\\transformed\\react-android-0.86.0-debug\\prefab",
+    "C:\\GradleHome\\caches\\8.13\\transforms\\d85edb7719ddc83e33b64d271b318898\\transformed\\hermes-android-250829098.0.14-debug\\prefab",
+    "C:\\GradleHome\\caches\\8.13\\transforms\\9c0b35c7a9b14d2fc78529d0e45d31d3\\transformed\\fbjni-0.7.0\\prefab"
+  ]
+}

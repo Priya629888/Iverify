@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604749505942",
+    "project_id": "iverify-dbd42",
+    "storage_bucket": "iverify-dbd42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604749505942:android:1c39b878527153484f29b7",
+        "android_client_info": {
+          "package_name": "com.iverify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXpcYkRNBPRB_OHo6iXb_TzaTQGhMKIi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
